@@ -23,3 +23,7 @@ Real AI models will be integrated in future development.
 **Tech Trojans**
 - Member 1: Backend & System Design
 - Member 2: AI & Frontend
+
+
+## Short informative video
+https://github.com/dhruvidpatel2007-dev/AutoMark-AI
